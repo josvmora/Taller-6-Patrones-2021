@@ -9,7 +9,7 @@ package Fachada;
  *
  * @author jeanf
  */
-public class Cliente implements Canal {
+public class ClienteWeb implements Canal {
 
     @Override
     public void cargarProduct() {
